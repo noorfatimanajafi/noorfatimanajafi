@@ -1,6 +1,6 @@
 👋 Hi, I’m **Noor Fatima** 
 
-<img src="https://raw.githubusercontent.com/noorfatimanajafi/noorfatimanajafi/main/tech.webp" width="29px">
+<img src="https://raw.githubusercontent.com/noorfatimanajafi/noorfatimanajafi/main/tech.webp" width="300px">
 
 - 👀 Interested in Web Development
 - 🌱 I’m currently learning HTML, CSS.
