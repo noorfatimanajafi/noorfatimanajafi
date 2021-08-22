@@ -1,9 +1,6 @@
 👋 Hi, I’m **Noor Fatima** 
-        <div class="col-xl-7 order-1">
-          <img src="https://raw.githubusercontent.com/noorfatimanajafi/noorfatimanajafi/main/tech.webp" width="500px">
-        </div>
-       
 
+<img src="https://raw.githubusercontent.com/noorfatimanajafi/noorfatimanajafi/main/tech.webp" width="500px">
 
 - 👀 Interested in Web Development
 - 🌱 I’m currently learning HTML, CSS.
