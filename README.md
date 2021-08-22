@@ -1,10 +1,11 @@
 👋 Hi, I’m **Noor Fatima** 
 
+<img src="https://github.com/noorfatimanajafi/noorfatimanajafi/blob/master/tech.webp" width="29px">
+
 - 👀 Interested in Web Development
 - 🌱 I’m currently learning HTML, CSS.
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me: 
-    [![Gmail Badge](https://img.shields.io/badge/-noor.fatima.najafi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noor.fatima.najafi@gmail.com)](mailto:noor.fatima.najafi@gmail.com)
+- 📫 How to reach me: <br> [![Gmail Badge](https://img.shields.io/badge/-noor.fatima.najafi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noor.fatima.najafi@gmail.com)](mailto:noor.fatima.najafi@gmail.com)
 
 <!---
 noorfatimanajafi/noorfatimanajafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
